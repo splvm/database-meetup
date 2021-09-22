@@ -1,8 +1,8 @@
 # 21' Database Meetup
-![cmu 15.445 logo](assets/logo.png)
+<img src="assets/logo.png" alt="database meetup logo" width="200"/>
 
 ## Schedule
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf9l-UddUZGxIxbLqPOrbGQGpSbl4n1D6tRzXFqZwl9fZCo-Dcn2RCE6W_1oRY/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf9l-UddUZGxIxbLqPOrbGQGpSbl4n1D6tRzXFqZwl9fZCo-Dcn2RCE6W_1oRY/pubhtml?gid=242293822&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ## Resources
