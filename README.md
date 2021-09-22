@@ -1,6 +1,9 @@
 # 21' Database Meetup
 <img src="assets/logo.png" alt="database meetup logo" width="200"/>
 
+## Schedule
+<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf9l-UddUZGxIxbLqPOrbGQGpSbl4n1D6tRzXFqZwl9fZCo-Dcn2RCE6W_1oRY/pubhtml?widget=true&amp;headers=false" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+
 ## Resources
 - [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf9l-UddUZGxIxbLqPOrbGQGpSbl4n1D6tRzXFqZwl9fZCo-Dcn2RCE6W_1oRY/pubhtml?gid=242293822&single=true)
 - [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09)
