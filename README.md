@@ -1,6 +1,7 @@
 # 21' Database Meetup by SPLVM
 
-<img src="assets/LogoCombined.png" alt="database meetup logo" width="500"/>
+<img src="assets/15445logo.png" alt="database meetup logo" width="300"/>
+<img src="assets/SPLVM_750x750_t.png" alt="database meetup logo" width="300"/>
 
 ## Annoucement:
 
@@ -22,11 +23,11 @@
 
 ## The Team
 
-
-<img src="assets/TeamHorizontal.png" alt="database meetup logo" width="500"/>
-
-
-<img src="TeamHorizontal.png" alt="team photo" width="500"/>
+<img src="assets/MossakaPic.png" alt="Mossaka photo" width="100"/>
+<img src="assets/LinWenPic.png" alt="Mossaka photo" width="100"/>
+<img src="assets/LiboPic.png" alt="Mossaka photo" width="100"/>
+<img src="assets/VerityPic.png" alt="Mossaka photo" width="100"/>
+<img src="assets/ChenChiPic.png" alt="Mossaka photo" width="100"/>
 
 ![]()
 
