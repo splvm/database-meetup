@@ -22,7 +22,7 @@
 
 ## The Team
 
-<img src="assets/TeamCombined.png" alt="team photo" width="500"/>
+<img src="assets/TeamCombinedNamed.png" alt="team photo" width="500"/>
 
 ![]()
 
