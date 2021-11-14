@@ -4,11 +4,12 @@
 
 ## Annoucement:
 
-1. 9/22/2021: Our first *database meetup* will start on Saturday, September 25th, 2021 at 5:00PM.
+1. **9/22/2021:** Our first *database meetup* will start on Saturday, September 25th, 2021 at 5:00PM.
    [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09)
 2. Our upcoming future meetups will be hosted every Saturday at 4:30 PM.
-3. 10/2/2021: Our second *database meetup* will start on Saturday, Oct 2nd, 2021 at 4:30PM PST. Verity will cover Database System Concepts chap 1 and 3.1-3.7. 
-4. 11/6/2021: We covered Lecture 3 to answer the question: how does the DBMS represent database in files on disk? We covered different storage medias, such as disk, SSD and cache. We also covered the heap file layout: linkedin list vs. page directory. Lastly, we covered the page layout and discussed the pros and cons of slotted page vs. log-structured file organizations. For next week: we will continue out journey on the database disk management and will talk about tuple layout, data representation, and OLTP vs. OLAP models. 
+3. **10/2/2021:** Our second *database meetup* will start on Saturday, Oct 2nd, 2021 at 4:30PM PST. Verity will cover Database System Concepts chap 1 and 3.1-3.7. 
+4. **11/6/2021:** We covered Lecture 3 to answer the question: how does the DBMS represent database in files on disk? We covered different storage medias, such as disk, SSD and cache. We also covered the heap file layout: linkedin list vs. page directory. Lastly, we covered the page layout and discussed the pros and cons of slotted page vs. log-structured file organizations. For next week: we will continue out journey on the database disk management and will talk about tuple layout, data representation, and OLTP vs. OLAP models. 
+5. **11/13/2021:** We covered Lecture 4, the sequal to the last lecture about the database storage. Particularly, we went through how tuples are organized in disk, different data representations, what is database catelog and different databsae storage models corresponding to OLAP and OLTP worklaods. Next week, Libo will host the discussion for Lecture 5 & 6 - Buffer Pools and Hash Tables.
 
 ## Schedule
 
@@ -38,3 +39,4 @@
 6. [Guest talk: Spanner](https://youtu.be/Mf2JWbRV1j8)
 7. [Meetup 4](https://youtu.be/iPNeNGqMuw0)
 8. [Meetup 5](https://youtu.be/RSUmAGvDdLQ)
+9. [Meetup 6](https://youtu.be/Wk1UQgKKm78)
