@@ -13,7 +13,7 @@
 
 ## Schedule
 
-<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf9l-UddUZGxIxbLqPOrbGQGpSbl4n1D6tRzXFqZwl9fZCo-Dcn2RCE6W_1oRY/pubhtml?widget=true&headers=false" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf9l-UddUZGxIxbLqPOrbGQGpSbl4n1D6tRzXFqZwl9fZCo-Dcn2RCE6W_1oRY/pubhtml)
 
 ## Resources
 
@@ -40,3 +40,6 @@
 7. [Meetup 4](https://youtu.be/iPNeNGqMuw0)
 8. [Meetup 5](https://youtu.be/RSUmAGvDdLQ)
 9. [Meetup 6](https://youtu.be/Wk1UQgKKm78)
+
+## Previous Distributed System Meetup
+Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
