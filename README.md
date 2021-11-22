@@ -10,6 +10,7 @@
 3. **10/2/2021:** Our second *database meetup* will start on Saturday, Oct 2nd, 2021 at 4:30PM PST. Verity will cover Database System Concepts chap 1 and 3.1-3.7. 
 4. **11/6/2021:** We covered Lecture 3 to answer the question: how does the DBMS represent database in files on disk? We covered different storage medias, such as disk, SSD and cache. We also covered the heap file layout: linkedin list vs. page directory. Lastly, we covered the page layout and discussed the pros and cons of slotted page vs. log-structured file organizations. For next week: we will continue out journey on the database disk management and will talk about tuple layout, data representation, and OLTP vs. OLAP models. 
 5. **11/13/2021:** We covered Lecture 4, the sequal to the last lecture about the database storage. Particularly, we went through how tuples are organized in disk, different data representations, what is database catelog and different databsae storage models corresponding to OLAP and OLTP worklaods. Next week, Libo will host the discussion for Lecture 5 & 6 - Buffer Pools and Hash Tables.
+6. **11/21/2021:** We covered Lecture 5 and 6, the Buffer Pool and Hash Tables. Next weeek is the Thanksgiving holiday so we will not meet online. Have a good weekend everyone! We will be back on December and Verity will be presenting Tree Indexes on Dec. 4th. 
 
 ## Schedule
 
@@ -40,6 +41,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 7. [Meetup 4](https://youtu.be/iPNeNGqMuw0)
 8. [Meetup 5](https://youtu.be/RSUmAGvDdLQ)
 9. [Meetup 6](https://youtu.be/Wk1UQgKKm78)
+10. [Meetup 7](https://www.youtube.com/watch?v=UrvVQBg5-bY)
 
 ## Previous Distributed System Meetup
 Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
