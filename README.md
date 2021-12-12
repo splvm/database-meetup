@@ -15,6 +15,7 @@
    - [Automatic Database Management System Tuning Through Large-scale Machine Learning](https://www.cs.cmu.edu/~pavlo/papers/p1009-van-aken.pdf)
    - [A Demonstration of the OtterTune Automatic Database Management System Tuning Service](http://www.vldb.org/pvldb/vol11/p1910-zhang.pdf)
    - [An Inquiry into Machine Learning-based Automatic Configuration Tuning Services on Real-World Database Management Systems](https://www.cs.cmu.edu/~pavlo/papers/p1241-aken.pdf)
+8. **12/11/2021:** Our second guest talk features Bohan Zhang, co-founder of OtterTune. He talked about what is an automatic database tuning service. In our next meetup, we will continue our CMU 15.445 journey. Mossaka will talk about Lecture 9 and 10：Index Concurrency Control and Sorting + Aggregation. Please read chapters 15.10 and 12.4-12.5. 
 
 ## Schedule
 
@@ -47,6 +48,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 9. [Meetup 6](https://youtu.be/Wk1UQgKKm78)
 10. [Meetup 7](https://www.youtube.com/watch?v=UrvVQBg5-bY)
 11. [Meetup 8](https://youtu.be/yzt0W8HxpMk)
+12. [Guest Talk: OtterTune](https://youtu.be/6y4VJb7SMNY)
 
 ## Previous Distributed System Meetup
 Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
