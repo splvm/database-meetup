@@ -17,7 +17,7 @@
    - [An Inquiry into Machine Learning-based Automatic Configuration Tuning Services on Real-World Database Management Systems](https://www.cs.cmu.edu/~pavlo/papers/p1241-aken.pdf)
 8. **12/11/2021:** Our second guest talk features Bohan Zhang, co-founder of OtterTune. He talked about what is an automatic database tuning service. In our next meetup, we will continue our CMU 15.445 journey. Mossaka will talk about Lecture 9 and 10：Index Concurrency Control and Sorting + Aggregation. Please read chapters 15.10 and 12.4-12.5. 
 9. **12/18/2021** We ended the year 2021 with our last talk on index concurrency control, external merge sort and hashing. Next time, Lin Wen will be presenting Lecture 11 and 12: Join Algorithms and Query Execution (Part I) on 1/8/2022.  
-10. Happy new year, everyone! Thanks for supporting us!
+10. **1/1/2022** Happy new year, everyone! Thanks for supporting us!
 
 ## Schedule
 
