@@ -30,7 +30,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 - [Zoom](https://us06web.zoom.us/j/88313732922?pwd=QzVDVDc4NU1adGtzZWRxWlhmNTdFQT09)
 - [CMU 15.445 Fall 2019 Course](https://15445.courses.cs.cmu.edu/fall2019/schedule.html)
 - [Textbook: Database System Concepts 6th Edition](https://www.db-book.com/db6/)
-- [Slack workspace](https://join.slack.com/t/splvm/shared_invite/zt-vhy0ld9w-xZ23aoJBzDb2CRvq8do~aQ)
+- [Slack workspace](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg)
 
 ## The Team
 
