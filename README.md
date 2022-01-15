@@ -19,6 +19,11 @@
 9. **12/18/2021:** We ended the year 2021 with our last talk on index concurrency control, external merge sort and hashing. Next time, Lin Wen will be presenting Lecture 11 and 12: Join Algorithms and Query Execution (Part I) on 1/8/2022.  
 10. **1/1/2022:** Happy new year, everyone! Thanks for supporting us!
 11. **1/9/2022:** We covered lecture 11 and 12: Join Algorithms and Query Execution part one. Next week, we invited Nick Cameron to present TiKV, a cloud-native distributed Key-Value store. Nick is a Rust programmer at Microsoft. He formerly served as a the Rust lang core team, and worked at PingCap and Mozilla. You can visit his personal [website](https://www.ncameron.org) to learn more about his work. You can RSVP the event here: https://www.meetup.com/splvm-events/events/283151850/
+12. **1/15/2022:** Our third guest talk features [Nick Cameron]((https://www.ncameron.org)), software engineer at Microsoft and previously Rust core-team. He talked about TiKV, a distributed key-value store. In our next meetup, Lin Wen will host the discussion for lecture 13 of CMU 15.445 and read chapter 18. Some of the papers being mentioned in today's talk:
+   - [Google Percolator](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf)
+   - [Raft](https://raft.github.io/raft.pdf)
+   - [TiDB: A Raft-based HTAP Database](https://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
+   - [Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 
 ## Schedule
 
@@ -54,6 +59,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 12. [Guest Talk: OtterTune](https://youtu.be/6y4VJb7SMNY)
 13. [Meetup 10](https://youtu.be/Z09Y6Exx-RQ)
 14. [Meetup 11](https://youtu.be/4WABi3tAuu8)
+15. [Guest Talk: TiKV](https://youtu.be/gdZw48GkPtk)
 
 ## Previous Distributed System Meetup
 Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
