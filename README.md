@@ -25,6 +25,7 @@
    - [TiDB: A Raft-based HTAP Database](https://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
    - [Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 13. **1/26/2022:** We covered lecture 13: Query Execution part two. This Saturday, Chen Chi will present lecture 14, 15, Query Optimization. 
+14. **1/29/2022:** We covered lecture 14 & 15: Query optimization. Next saturday, Riff will present lecture 16 - Concurrency Control Theory and the required reading is chapter 14. 
 
 ## Schedule
 
@@ -62,6 +63,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 14. [Meetup 11](https://youtu.be/4WABi3tAuu8)
 15. [Guest Talk: TiKV](https://youtu.be/gdZw48GkPtk)
 16. [Meetup 13](https://youtu.be/NQCiDNLlmfk)
+17. [Meetup 14](https://youtu.be/iS1geD4UULY)
 
 ## Previous Distributed System Meetup
 Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
