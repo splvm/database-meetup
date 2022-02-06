@@ -19,13 +19,16 @@
 9. **12/18/2021:** We ended the year 2021 with our last talk on index concurrency control, external merge sort and hashing. Next time, Lin Wen will be presenting Lecture 11 and 12: Join Algorithms and Query Execution (Part I) on 1/8/2022.  
 10. **1/1/2022:** Happy new year, everyone! Thanks for supporting us!
 11. **1/9/2022:** We covered lecture 11 and 12: Join Algorithms and Query Execution part one. Next week, we invited Nick Cameron to present TiKV, a cloud-native distributed Key-Value store. Nick is a Rust programmer at Microsoft. He formerly served as a the Rust lang core team, and worked at PingCap and Mozilla. You can visit his personal [website](https://www.ncameron.org) to learn more about his work. You can RSVP the event here: https://www.meetup.com/splvm-events/events/283151850/
-12. **1/15/2022:** Our third guest talk features [Nick Cameron]((https://www.ncameron.org)), software engineer at Microsoft and previously Rust core-team. He talked about TiKV, a distributed key-value store. In our next meetup, Lin Wen will host the discussion for lecture 13 of CMU 15.445 and read chapter 18. Some of the papers being mentioned in today's talk:
+12. **1/15/2022:** Our third guest talk features [Nick Cameron]((https://www.ncameron.org)), software engineer at Microsoft and previously Rust core-team. He talked about TiKV, a distributed key-value store. In our next meetup, Lin Wen will host the discussion for lecture 13 of CMU 15.445 and read chapter 18. Some of the papers being mentioned in today's talk: 
    - [Google Percolator](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf)
    - [Raft](https://raft.github.io/raft.pdf)
    - [TiDB: A Raft-based HTAP Database](https://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
    - [Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 13. **1/26/2022:** We covered lecture 13: Query Execution part two. This Saturday, Chen Chi will present lecture 14, 15, Query Optimization. 
-14. **1/29/2022:** We covered lecture 14 & 15: Query optimization. Next saturday, Riff will present lecture 16 - Concurrency Control Theory and the required reading is chapter 14. 
+14. **1/29/2022:** We covered lecture 14 & 15: Query optimization. Next saturday, Riff will present lecture 16 - Concurrency Control Theory and the required reading is chapter 15. **2/5/2022:** We covered lecture 16: Concurrency Control Theory. Next week, Libo will present lecture 17, 18. Here is a list of links that mentioned during the talk: 
+   - [View Serializability](https://www.geeksforgeeks.org/view-serializability-in-dbms/)
+   - [Jepsen Consistency Model](https://jepsen.io/consistency)
+   
 
 ## Schedule
 
@@ -64,6 +67,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 15. [Guest Talk: TiKV](https://youtu.be/gdZw48GkPtk)
 16. [Meetup 13](https://youtu.be/NQCiDNLlmfk)
 17. [Meetup 14](https://youtu.be/iS1geD4UULY)
+18. [Meetup 15](https://youtu.be/yiL5Chv9WbI)
 
 ## Previous Distributed System Meetup
 Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
