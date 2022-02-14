@@ -25,10 +25,11 @@
    - [TiDB: A Raft-based HTAP Database](https://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
    - [Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 13. **1/26/2022:** We covered lecture 13: Query Execution part two. This Saturday, Chen Chi will present lecture 14, 15, Query Optimization. 
-14. **1/29/2022:** We covered lecture 14 & 15: Query optimization. Next saturday, Riff will present lecture 16 - Concurrency Control Theory and the required reading is chapter 15. **2/5/2022:** We covered lecture 16: Concurrency Control Theory. Next week, Libo will present lecture 17, 18. Here is a list of links that mentioned during the talk: 
+14. **1/29/2022:** We covered lecture 14 & 15: Query optimization. Next saturday, Riff will present lecture 16 - Concurrency Control Theory and the required reading is chapter 15. 
+15. **2/5/2022:** We covered lecture 16: Concurrency Control Theory. Next week, Libo will present lecture 17, 18. Here is a list of links that mentioned during the talk: 
    - [View Serializability](https://www.geeksforgeeks.org/view-serializability-in-dbms/)
    - [Jepsen Consistency Model](https://jepsen.io/consistency)
-   
+15. **2/13/2022** We covered lecture 17, 18: Two Phase Locking and Timestamp Ordering Concurrency Control. Nexg week, Wantong will present lecture 19: Multi-Version Concurrency Control. 
 
 ## Schedule
 
@@ -68,6 +69,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 16. [Meetup 13](https://youtu.be/NQCiDNLlmfk)
 17. [Meetup 14](https://youtu.be/iS1geD4UULY)
 18. [Meetup 15](https://youtu.be/yiL5Chv9WbI)
+19. [Meetup 16](https://youtu.be/5QzgwClhdO8)
 
 ## Previous Distributed System Meetup
 Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
