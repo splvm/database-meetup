@@ -29,7 +29,7 @@
 15. **2/5/2022:** We covered lecture 16: Concurrency Control Theory. Next week, Libo will present lecture 17, 18. Here is a list of links that mentioned during the talk: 
    - [View Serializability](https://www.geeksforgeeks.org/view-serializability-in-dbms/)
    - [Jepsen Consistency Model](https://jepsen.io/consistency)
-15. **2/13/2022** We covered lecture 17, 18: Two Phase Locking and Timestamp Ordering Concurrency Control. Nexg week, Wantong will present lecture 19: Multi-Version Concurrency Control. 
+15. **2/13/2022** We covered lecture 17, 18: Two Phase Locking and Timestamp Ordering Concurrency Control. Next week, Wantong will present lecture 19: Multi-Version Concurrency Control. 
 
 ## Schedule
 
