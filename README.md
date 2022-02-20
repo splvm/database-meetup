@@ -30,6 +30,7 @@
    - [View Serializability](https://www.geeksforgeeks.org/view-serializability-in-dbms/)
    - [Jepsen Consistency Model](https://jepsen.io/consistency)
 15. **2/13/2022** We covered lecture 17, 18: Two Phase Locking and Timestamp Ordering Concurrency Control. Next week, Wantong will present lecture 19: Multi-Version Concurrency Control. 
+16. **2/20/2022** We covered lectur 19: Multi-version concurrency control. Next week, Wantong will present lecture 20: logging protocols and schemas. 
 
 ## Schedule
 
@@ -70,6 +71,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 17. [Meetup 14](https://youtu.be/iS1geD4UULY)
 18. [Meetup 15](https://youtu.be/yiL5Chv9WbI)
 19. [Meetup 16](https://youtu.be/5QzgwClhdO8)
+20. [Meetup 17](https://youtu.be/D-kozcFSj3I)
 
 ## Previous Distributed System Meetup
 Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
