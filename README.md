@@ -33,6 +33,7 @@
 16. **2/20/2022** We covered lectur 19: Multi-version concurrency control. Next week, Wantong will present lecture 20: logging protocols and schemas. Here is a list of papers that mentioned in the talk:
    - [An Empirical Evaluation of In-Memory Multi-Version Concurrency Control](https://www.vldb.org/pvldb/vol10/p781-Wu.pdf)
 17. **2/26/2022** We have changed today's meeting link to [this](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09)
+18. **2/26/2022** We covered lecture 20: logging protocals and schemes. Next week, we invited Bailu Ding, principal researcher at Microsoft Research, to present auto-indexing. 
 
 ## Schedule
 
@@ -74,6 +75,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 18. [Meetup 15](https://youtu.be/yiL5Chv9WbI)
 19. [Meetup 16](https://youtu.be/5QzgwClhdO8)
 20. [Meetup 17](https://youtu.be/D-kozcFSj3I)
+21. [Meetup 18](https://youtu.be/qAGbCMV5wdY)
 
 ## Previous Distributed System Meetup
 Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
