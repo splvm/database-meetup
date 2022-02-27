@@ -32,6 +32,7 @@
 15. **2/13/2022** We covered lecture 17, 18: Two Phase Locking and Timestamp Ordering Concurrency Control. Next week, Wantong will present lecture 19: Multi-Version Concurrency Control. 
 16. **2/20/2022** We covered lectur 19: Multi-version concurrency control. Next week, Wantong will present lecture 20: logging protocols and schemas. Here is a list of papers that mentioned in the talk:
    - [An Empirical Evaluation of In-Memory Multi-Version Concurrency Control](https://www.vldb.org/pvldb/vol10/p781-Wu.pdf)
+17. **2/26/2022** We have changed today's meeting link to [this](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09)
 
 ## Schedule
 
