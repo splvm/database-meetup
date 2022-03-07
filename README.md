@@ -34,6 +34,11 @@
    - [An Empirical Evaluation of In-Memory Multi-Version Concurrency Control](https://www.vldb.org/pvldb/vol10/p781-Wu.pdf)
 17. **2/26/2022** We have changed today's meeting link to [this](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09)
 18. **2/26/2022** We covered lecture 20: logging protocals and schemes. Next week, we invited Bailu Ding, principal researcher at Microsoft Research, to present auto-indexing. 
+19. **3/6/2022** Our fourth guest talk features [Bailu Ding](https://www.microsoft.com/en-us/research/people/badin/), a database researcher at Microsoft Research. She introduced the challanges and approaches to index tuning, and several recent research advances in autonomous index tuning. You can view the related papers for more information:
+   - [Plan Stitch: Harnessing the Best of Many Plans](https://www.microsoft.com/en-us/research/uploads/prod/2018/07/p1123-ding.pdf)
+   - [AI Meets AI: Leveraging Query Executions to Improve Index Recommendations](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/regression_sigmod2019_CR.pdf)
+   - [Active Learning for ML Enhanced Database Systems](https://dl.acm.org/doi/pdf/10.1145/3318464.3389768)
+
 
 ## Schedule
 
@@ -76,6 +81,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 19. [Meetup 16](https://youtu.be/5QzgwClhdO8)
 20. [Meetup 17](https://youtu.be/D-kozcFSj3I)
 21. [Meetup 18](https://youtu.be/qAGbCMV5wdY)
+22. [Guest Talk: Autonomous Index Tuning](https://youtu.be/AilIgqKgC_0)
 
 ## Previous Distributed System Meetup
 Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
