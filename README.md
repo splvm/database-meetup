@@ -38,7 +38,7 @@
    - [Plan Stitch: Harnessing the Best of Many Plans](https://www.microsoft.com/en-us/research/uploads/prod/2018/07/p1123-ding.pdf)
    - [AI Meets AI: Leveraging Query Executions to Improve Index Recommendations](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/regression_sigmod2019_CR.pdf)
    - [Active Learning for ML Enhanced Database Systems](https://dl.acm.org/doi/pdf/10.1145/3318464.3389768)
-
+20. **3/12/2022** We have covered lecture 21 and 22: Recovery algorithm and Intro to Distributed Database. Next week, Richad Tu will cover lecture 23 and 24. You can learn more about ARIES algorithm in their original [paper](https://cs.stanford.edu/people/chrismre/cs345/rl/aries.pdf)
 
 ## Schedule
 
@@ -82,6 +82,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 20. [Meetup 17](https://youtu.be/D-kozcFSj3I)
 21. [Meetup 18](https://youtu.be/qAGbCMV5wdY)
 22. [Guest Talk: Autonomous Index Tuning](https://youtu.be/AilIgqKgC_0)
+23. [Meetup 20](https://youtu.be/awbCJuB4dMo)
 
 ## Previous Distributed System Meetup
 Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
