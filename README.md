@@ -2,6 +2,10 @@
 
 <img src="assets/15445logo.png" alt="database meetup logo" width="250"/>
 
+## End of the Meetup Survey:
+
+Please help us to fill out this [survey](https://forms.gle/xGPebFvuxSj1mwU26). Your feedback will be tremendously helpful for improving our events in the future!
+
 ## Annoucement:
 
 1. **9/22/2021:** Our first *database meetup* will start on Saturday, September 25th, 2021 at 5:00PM.
