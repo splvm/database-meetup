@@ -43,6 +43,13 @@ Please help us to fill out this [survey](https://forms.gle/xGPebFvuxSj1mwU26). Y
    - [AI Meets AI: Leveraging Query Executions to Improve Index Recommendations](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/regression_sigmod2019_CR.pdf)
    - [Active Learning for ML Enhanced Database Systems](https://dl.acm.org/doi/pdf/10.1145/3318464.3389768)
 20. **3/12/2022** We have covered lecture 21 and 22: Recovery algorithm and Intro to Distributed Database. Next week, Richad Tu will cover lecture 23 and 24. You can learn more about ARIES algorithm in their original [paper](https://cs.stanford.edu/people/chrismre/cs345/rl/aries.pdf)
+21. **3/20/2022** We covered lecture 23: Distributed OLTP Database Systems, including 2PC and Paxos algorithms. If you want to learn more about Paxos and 2PC, here are recommended materials: 
+   - [Paxos](https://ongardie.net/static/raft/userstudy/paxos.pdf)
+   - [2PC](https://www.cs.princeton.edu/courses/archive/fall16/cos418/docs/L6-2pc.pdf)
+   - [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
+   - [The Part-time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
+   
+   Next week, we have a special guest talk features David Wei on the topic of LSM Trees! 
 
 ## Schedule
 
@@ -87,6 +94,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 21. [Meetup 18](https://youtu.be/qAGbCMV5wdY)
 22. [Guest Talk: Autonomous Index Tuning](https://youtu.be/AilIgqKgC_0)
 23. [Meetup 20](https://youtu.be/awbCJuB4dMo)
+24. [Meetup 21](https://youtu.be/4_6fo5JKgSM)
 
 ## Previous Distributed System Meetup
 Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
