@@ -95,6 +95,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 22. [Guest Talk: Autonomous Index Tuning](https://youtu.be/AilIgqKgC_0)
 23. [Meetup 20](https://youtu.be/awbCJuB4dMo)
 24. [Meetup 21](https://youtu.be/4_6fo5JKgSM)
+25. [Guest Talk: LSM-Trees 101.000001](https://www.youtube.com/watch?v=flbU1BRJV8U)
 
 ## Previous Distributed System Meetup
 Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
