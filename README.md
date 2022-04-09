@@ -50,6 +50,7 @@ Please help us to fill out this [survey](https://forms.gle/xGPebFvuxSj1mwU26). Y
    - [The Part-time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
    
    Next week, we have a special guest talk features David Wei on the topic of LSM Trees! 
+22. **4/9/2022** This is our final meetup - we. have. FINISHED. CMU 15.445! Come and join us to celebrate this moment! Bring drinks and sparking water because we will talk about our next journey in learning everything in systems.
 
 ## Schedule
 
@@ -96,6 +97,7 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 23. [Meetup 20](https://youtu.be/awbCJuB4dMo)
 24. [Meetup 21](https://youtu.be/4_6fo5JKgSM)
 25. [Guest Talk: LSM-Trees 101.000001](https://www.youtube.com/watch?v=flbU1BRJV8U)
+26. [Meetup 23](https://youtu.be/dvclapL0wwg)
 
 ## Previous Distributed System Meetup
 Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
