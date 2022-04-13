@@ -50,7 +50,9 @@ Please help us to fill out this [survey](https://forms.gle/xGPebFvuxSj1mwU26). Y
    - [The Part-time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
    
    Next week, we have a special guest talk features David Wei on the topic of LSM Trees! 
+   
 22. **4/9/2022** This is our final meetup - we. have. FINISHED. CMU 15.445! Come and join us to celebrate this moment! Bring drinks and sparking water because we will talk about our next journey in learning everything in systems.
+23. **4/13/2022** We have officially ended our database meetup! Thank you, for staying with us, on this incredible adventure!
 
 ## Schedule
 
