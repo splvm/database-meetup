@@ -102,4 +102,4 @@ Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYCQvUXoG0_C8hJgf
 26. [Meetup 23](https://youtu.be/dvclapL0wwg)
 
 ## Previous Distributed System Meetup
-Click [here](https://microsoft-distributed-system-meetup.github.io/distsys-meetup/)
+Click [here](https://splvm.github.io/distsys-meetup/)
